@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased] / 未发布
 
+## [1.0.0] - 2026-09-18
+
 ### Added / 新增
 
 - 首个版本：16 个模块（M01–M16）、起步引导层和选型清单。 / First version: 16 modules (M01–M16), the setup guide layer, and the selection list.
