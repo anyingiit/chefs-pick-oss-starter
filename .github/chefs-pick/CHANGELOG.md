@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.0] - 2026-09-23
+
+### Added
+
+- A "Set up with an agent" section on the front page and its translation: a copyable prompt that lets a coding agent create a repository from this template or align an existing one, and a link to the separately published skill for installing the same instructions persistently. The skill lives in its own repository so that nothing agent-related is ever copied into a repository generated from this template. The first skill release is v1.0.0.
+
 ## [1.1.0] - 2026-09-18
 
 ### Added

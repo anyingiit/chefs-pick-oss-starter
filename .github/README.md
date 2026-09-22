@@ -84,6 +84,22 @@ Adoption evidence always states its type: exact stars, rounded stars, estimated 
 
 (Optional) Once the project has grown into a multi-person effort, see [Growing into a team project](chefs-pick/UPGRADE-TO-TEAM.md)
 
+<!-- anchor: use-an-agent -->
+## Set up with an agent (optional)
+
+If you use a coding agent, it can do the setup checklist for you: create a new repository from this template, or bring an existing repository — including one made from an older version of this template — up to date. It shows you every change before making it and asks before touching anything you already have. Copy this into your agent:
+
+```text
+Use the Chef's Pick OSS Starter skill to set up or align this repository.
+Read https://raw.githubusercontent.com/anyingiit/chefs-pick-oss-starter-skill/main/skills/chefs-pick-oss-starter/SKILL.md
+and the files it links to, and follow them as the rules for this task.
+Before changing anything, show me the full plan and wait for my approval.
+Never overwrite or delete my existing files, change repository settings,
+or push without asking me about that specific item first.
+```
+
+To keep it around, install the skill once instead; see the [skill repository](https://github.com/anyingiit/chefs-pick-oss-starter-skill). Without an agent, the quick start above works exactly as before.
+
 <!-- anchor: good-to-know -->
 ## Good to know
 
