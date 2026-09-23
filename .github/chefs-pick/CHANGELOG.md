@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.1] - 2026-09-23
+
+### Changed
+
+- The agent setup prompt and the skill link on the front page and its translation now point at the skill's new home in the chefs-pick-oss-starter organization, beside this template. The old address still redirects, but the prompt should not depend on that. Matches skill v1.0.2.
+
 ## [1.2.0] - 2026-09-23
 
 ### Added

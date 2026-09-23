@@ -5,7 +5,7 @@
 
 > 英文版是规范版本。本页与 [README.md](README.md) 不一致时，以英文版为准。
 
-<!-- translation-of: README.md sha256:9f2d02fea6ae80a0 -->
+<!-- translation-of: README.md sha256:534598d31a146a0a -->
 
 本模板为新建的开源仓库提供协作所需的全部文件。每个模块都采用社区已广泛认可的选型，开箱即用；每一项选择都注明其来源、认可度证据和核实日期——而不仅仅是作者的个人偏好。
 
@@ -77,14 +77,14 @@
 
 ```text
 Use the Chef's Pick OSS Starter skill to set up or align this repository.
-Read https://raw.githubusercontent.com/anyingiit/chefs-pick-oss-starter-skill/main/skills/chefs-pick-oss-starter/SKILL.md
+Read https://raw.githubusercontent.com/chefs-pick-oss-starter/chefs-pick-oss-starter-skill/main/skills/chefs-pick-oss-starter/SKILL.md
 and the files it links to, and follow them as the rules for this task.
 Before changing anything, show me the full plan and wait for my approval.
 Never overwrite or delete my existing files, change repository settings,
 or push without asking me about that specific item first.
 ```
 
-想长期使用的话，也可以把技能安装一次；参见[技能仓库](https://github.com/anyingiit/chefs-pick-oss-starter-skill)。不用 Agent 时，上面的快速开始照常可用。
+想长期使用的话，也可以把技能安装一次；参见[技能仓库](https://github.com/chefs-pick-oss-starter/chefs-pick-oss-starter-skill)。不用 Agent 时，上面的快速开始照常可用。
 
 <!-- anchor: good-to-know -->
 ## 注意事项

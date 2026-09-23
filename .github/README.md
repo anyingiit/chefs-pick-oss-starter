@@ -91,14 +91,14 @@ If you use a coding agent, it can do the setup checklist for you: create a new r
 
 ```text
 Use the Chef's Pick OSS Starter skill to set up or align this repository.
-Read https://raw.githubusercontent.com/anyingiit/chefs-pick-oss-starter-skill/main/skills/chefs-pick-oss-starter/SKILL.md
+Read https://raw.githubusercontent.com/chefs-pick-oss-starter/chefs-pick-oss-starter-skill/main/skills/chefs-pick-oss-starter/SKILL.md
 and the files it links to, and follow them as the rules for this task.
 Before changing anything, show me the full plan and wait for my approval.
 Never overwrite or delete my existing files, change repository settings,
 or push without asking me about that specific item first.
 ```
 
-To keep it around, install the skill once instead; see the [skill repository](https://github.com/anyingiit/chefs-pick-oss-starter-skill). Without an agent, the quick start above works exactly as before.
+To keep it around, install the skill once instead; see the [skill repository](https://github.com/chefs-pick-oss-starter/chefs-pick-oss-starter-skill). Without an agent, the quick start above works exactly as before.
 
 <!-- anchor: good-to-know -->
 ## Good to know
